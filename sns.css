@@ -1,0 +1,13 @@
+body {
+    margin: 24px;
+  }
+  
+  #task-list {
+    max-width: 200px;
+  }
+  
+  .task {
+    display: flex;
+    justify-content: space-between;
+  }
+  
