@@ -1,0 +1,131 @@
+header {
+    width: 100%;
+    height: 66px;
+    background-color: #008580;
+}
+
+/* #img{
+    background-size: cover;
+    background-image: url('_e2ij90E_400x400.jpg');
+    background-repeat: no-repeat;
+} */
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.pagination-002 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 8px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.pagination-002 a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2em;
+    height: 2em;
+    border-radius: 1px;
+    background-color: #f2f2f2;
+    color: #0085817f;
+}
+
+.pagination-002 a:not(:hover) {
+    text-decoration: none;
+}
+
+.pagination-002 .current a {
+    background-color: #00858186;
+    color: #fff;
+    pointer-events: none;
+}
+
+.top_icon {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item p {
+    margin: 30px 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 50px;
+    background-color: #00858122;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-001 {
+    margin-top: 20px;
+    display: flex;
+    padding: 0px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 25px 10px 10px; */
+    background-color: #008580;
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.map {
+    display: flex;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.ruler {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.user-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
