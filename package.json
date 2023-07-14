@@ -1,0 +1,19 @@
+{
+  "name": "zmap-frontend",
+  "version": "1.0.0",
+  "description": "・やったこと snsはTODOリストの削除機能を消しただけ homepageはただsnsに移動できるようにしただけ ・これから 画面をきれいにしたり、snsの名前を書く場所を追加していこうと思います。あとほかのページにも移動できるように<nav>に追加したいと思います。",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

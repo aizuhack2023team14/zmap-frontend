@@ -1,12 +1,48 @@
 body {
     margin: 24px;
   }
-  
-  #task-list {
-    max-width: 200px;
+
+  header{
+    background-color: #008580B2;
+    width: 720px;
+    height: 59px;
+    flex-shrink: 0; 
   }
-  
-  .task {
+
+  footer{
+    background-color: #008580;
+    width: 720px;
+    height: 89px;
+    flex-shrink: 0; 
+  }
+  .logo {
+    background-color: #008DB7;
+    width: 720px;
+    height: 1200px;
+  }
+  footer button{
+    float: left;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
   }
+#home {
+  margin-left: 10%;
+}
+#user-icon {
+  width:100px;
+  margin-left: 10%;
+ } 
+#map {
+  width: 100px;
+  margin-left: 10%;
+}
+#search {
+  width: 100px;
+  margin-left: 10%;
+}

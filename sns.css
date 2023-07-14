@@ -11,3 +11,55 @@ body {
     justify-content: space-between;
   }
   
+  header{
+    background-color: #008580B2;
+    width: 250px;
+    height: 59px;
+    flex-shrink: 0; 
+    position : sticky;
+    top: 0;
+  }
+
+  footer{
+    background-color: #008580;
+    width: 250px;
+    height: 60px;
+    flex-shrink: 0; 
+    position : sticky;
+    bottom: 0;
+  }
+
+  footer button{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+  }
+#home {
+  margin-left: 2%;
+  width: 50px;
+  height: 50px;
+}
+#user-icon {
+  margin-left: 2%;
+  width: 50px;
+  height: 50px;
+ } 
+#map {
+  margin-left: 2%;
+  width: 50px;
+  height: 50px;
+}
+#search {
+  margin-left: 2%;
+  width: 50px;
+  height: 50px;
+}
+
+#task-list {
+  height: 999999px;
+  width: 250px;
+}
