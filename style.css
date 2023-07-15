@@ -7,31 +7,14 @@ header {
 a{
   text-decoration: none;
 }
-/* body{
-background-image: url("/Users/yarimizuyuta/Pictures/_e2ij90E_400x400.png");
-background-size: cover;
-} */
 
-/* _e2ij90E_400x400 1 */
 .pic{
-  /* display: flex; */
-  /* position: absolute; */
-  /* /* width: 390px;
-  height: 474px;
-  left: 0px;
-  top: 185px; */
   background-image: url(_e2ij90E_400x400.png);
-  /* background-size: cover; */
   background-position: center;
-  /* border-radius: 25px; */
   background-repeat: no-repeat;
-  /* justify-content: center;
-  align-items: center; */
   height: 270px;
   width: 100%;
 }
-
-
 
 .search-main {
   display: flex;
@@ -86,10 +69,6 @@ background-size: cover;
   color: black;
 }
 
-/* .content{
-  margin-top: 50px;
-} */
-
 .c1 {
   display: flex;
   align-items: center;
@@ -112,7 +91,6 @@ background-size: cover;
   width: 120px;
   height: 80px;
   margin:0 10px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: rgba(255, 166, 0, 0.885);
   color: black;
@@ -123,7 +101,6 @@ background-size: cover;
 .kodo {
   height: 80px;
   width: 120px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858182;
   color: black;
@@ -141,7 +118,6 @@ background-size: cover;
 .taikukan {
   height: 80px;
   width: 120px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858180;
   color: black;
@@ -153,7 +129,6 @@ background-size: cover;
   width: 120px;
   height: 80px;
   margin:0 10px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858180;
   color: black;
@@ -164,7 +139,6 @@ background-size: cover;
 .ubic {
   height: 80px;
   width: 120px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858182;
   color: black;
@@ -200,7 +174,6 @@ background-size: cover;
 .kennkyuu {
   height: 80px;
   width: 120px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858180;
   color: black;
@@ -212,7 +185,6 @@ background-size: cover;
   width: 120px;
   height: 80px;
   margin:0 10px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858181;
   color: black;
@@ -241,7 +213,6 @@ background-size: cover;
 .busitu {
   height: 80px;
   width: 120px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858180;
   color: black;
@@ -253,7 +224,6 @@ background-size: cover;
   width: 120px;
   height: 80px;
   margin:0 10px;
-  /* border: 1px solid black; */
   border-radius: 10px;
   background-color: #00858180;
   color: black;
@@ -323,43 +293,4 @@ background-size: cover;
   background-color: #008580;
   cursor: pointer;
 }
-/*
-footer {
-  position: fixed;
-  bottom: 0;
-} */
- /* #home::after {
-  width: 20px;
-  height: 20px;
-  background-image: url('');
-  background-repeat: no-repeat;
-  content: '';
-} */
 
-/* .footer-001__logo {
-  width: 130px;
-  height: 50px;
-} */
-/*
-.footer-001__list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0 1.5em;
-  list-style-type: none;
-  margin: 0 0 .5em;
-  padding: .5em;
-}
-
-.footer-001__link {
-  color: #fff;
-  font-weight: 200;
-  text-decoration: none;
-}
-
-.footer-001__copyright {
-  margin: 0;
-  color: #ffffffb3;
-  font-weight: 200;
-  font-size: .8em;
-} */
