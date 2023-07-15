@@ -1,79 +1,18 @@
-header {
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.campus_map {
     width: 100%;
-    height: 66px;
-    background-color: #008580;
+    margin-top: 50px;
 }
 
-
-.top_icon {
-    display: flex;
-    justify-content: center;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-body img{
+.mizube {
     width: 100%;
-    height: 100%;
-    margin: 5px 0;
+    margin-top: 30px;
 }
-
-body p{
-    margin-top: 5px;
-}
-
-span {
-    margin-top: 10px;
-    font-size: 30px;
-}
-/* #img{
-    background-size: cover;
-    background-image: url('_e2ij90E_400x400.jpg');
-    background-repeat: no-repeat;
-} */
-
-a{
-    text-decoration: none;
-    display: flex;
-    justify-content: center;
-}
-
-.pagination-002 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0 8px;
-    list-style-type: none;
-    padding: 0;
-}
-
-.pagination-002 a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 2em;
-    height: 2em;
-    border-radius: 1px;
-    background-color: #f2f2f2;
-    color: #0085817f;
-}
-
-.pagination-002 a:not(:hover) {
-    text-decoration: none;
-}
-
-.pagination-002 .current a {
-    background-color: #00858186;
-    color: #fff;
-    pointer-events: none;
-}
-
-.d {
-    margin-top: 25px;
-    width: 100%;
-    font-size: 25px;
-}
-
 
 
 .footer-001 {
@@ -139,3 +78,7 @@ a{
     background-color: #008580;
     cursor: pointer;
 }
+
+
+
+
