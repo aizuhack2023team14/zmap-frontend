@@ -1,7 +1,7 @@
 let taskArray = [];
 let id = 0;
-const baseURL = `http://localhost:3000`;
-const baseURL2 =`http://localhost:3000/user`; 
+const baseURL = `http://localhost:8080`;
+const baseURL2 =`http://localhost:8080/user`; 
 const addButton = document.getElementById('add-button');
 addButton.addEventListener('click', async function () {
   const taskInput = document.getElementById('task-input');
