@@ -1,0 +1,116 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.campus_map {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.call2 {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.pagination-002 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 8px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.pagination-002 a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2em;
+    height: 2em;
+    border-radius: 1px;
+    background-color: #f2f2f2;
+    color: #0085817f;
+}
+
+.pagination-002 a:not(:hover) {
+    text-decoration: none;
+}
+
+.pagination-002 .current a {
+    background-color: #00858186;
+    color: #fff;
+    pointer-events: none;
+}
+
+
+.footer-001 {
+    margin-top: 20px;
+    display: flex;
+    padding: 0px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 25px 10px 10px; */
+    background-color: #008580;
+    bottom: 0;
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.map {
+    display: flex;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.ruler {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+.user-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border: none;
+    background-color: #008580;
+    cursor: pointer;
+}
+
+
+
+
