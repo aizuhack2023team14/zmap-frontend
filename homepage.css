@@ -31,18 +31,18 @@ body {
     background-color: #008580;
     cursor: pointer;
   }
-#home {
+.home {
   margin-left: 10%;
 }
-#user-icon {
+.user-icon {
   width:100px;
   margin-left: 10%;
  } 
-#map {
+.map {
   width: 100px;
   margin-left: 10%;
 }
-#search {
+.search {
   width: 100px;
   margin-left: 10%;
 }

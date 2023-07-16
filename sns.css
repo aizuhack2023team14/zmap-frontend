@@ -38,22 +38,22 @@ body {
     background-color: #008580;
     cursor: pointer;
   }
-#home {
+.home {
   margin-left: 2%;
   width: 50px;
   height: 50px;
 }
-#user-icon {
+.user-icon {
   margin-left: 2%;
   width: 50px;
   height: 50px;
  } 
-#map {
+.map {
   margin-left: 2%;
   width: 50px;
   height: 50px;
 }
-#search {
+.search {
   margin-left: 2%;
   width: 50px;
   height: 50px;
