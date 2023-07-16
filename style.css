@@ -14,8 +14,10 @@ a{
   background-repeat: no-repeat;
   height: 270px;
   width: 100%;
-  margin-left: 60px;
+  /* margin-left: 40px; */
   margin-top: 10px;
+  display: flex;
+  justify-content: center;
 }
 
 .search-main {
