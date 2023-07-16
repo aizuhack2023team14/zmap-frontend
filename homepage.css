@@ -32,17 +32,22 @@ body {
     cursor: pointer;
   }
 .home {
+  height: 90%;
+  width: 100px;
   margin-left: 10%;
 }
 .user-icon {
+  height: 90%;
   width:100px;
   margin-left: 10%;
  } 
 .map {
+  height: 90%;
   width: 100px;
   margin-left: 10%;
 }
 .search {
+  height: 90%;
   width: 100px;
   margin-left: 10%;
 }
